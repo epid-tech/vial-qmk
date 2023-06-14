@@ -19,7 +19,19 @@
     },
     "rgblight": {
         "led_count": 1,
-        "pin": "GP1"
+        "pin": "GP1",
+        "animations": {
+            "alternating": true,
+            "breathing": true,
+            "christmas": true,
+            "knight": true,
+            "rainbow_swirl": true,
+            "rainbow_mood": true,
+            "rgb_test": true,
+            "snake": true,
+            "static_gradient": true,
+            "twinkle": true
+        }
     },
     "processor": "RP2040",
     "url": "",
